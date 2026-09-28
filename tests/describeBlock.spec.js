@@ -8,7 +8,7 @@ test('login to sauce demo', async ({ page }) => {
  await page.locator("#login-button").click();
 });
 })
-  test.describe("product", ()=>
+  test.describe("product22", ()=>
 {
     test("add to cart", async({page})=>
     {
